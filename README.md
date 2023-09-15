@@ -15,7 +15,7 @@
         <div class="calculator dark">
             <div class="theme-toggler active">
                 <i class="toggler-icon"></i>
-            </div>
+            </div> 
             <div class="display-screen">
                 <div id="display"></div>
             </div>
